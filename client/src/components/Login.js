@@ -51,7 +51,7 @@ function AdminLogin({ createCookie, changeView }) {
 
     return (
         <div className={styles.formcontainer}>
-            <div className={styles.titlebox}><h1>Weathering with Me</h1></div>
+            <div className={styles.titlebox}><h1>Weathering Application</h1></div>
             <div className={styles.loginbox}>
                 <h1>ADMIN LOGIN</h1>
             </div>
